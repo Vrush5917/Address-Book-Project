@@ -28,6 +28,11 @@ void initialize(AddressBook *addressBook)
     populateAddressBook(addressBook);
 }
 
+void saveAndExit(AddressBook *addressBook)
+{
+    
+}
+
 
 void createContact(AddressBook *addressBook)
 {
